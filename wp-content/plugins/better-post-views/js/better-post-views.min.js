@@ -1,0 +1,1 @@
+jQuery(document).ready(function(_){_.ajax({type:"POST",dataType:"json",url:better_post_views_vars.admin_ajax_url,data:{action:"better_post_views",better_post_views_id:better_post_views_vars.post_id},success:function(t,e,s){if("succeed"==t.status){var a='[data-bpv-post="';a+=better_post_views_vars.post_id,_(a+='"]').html(t.html)}}})});
