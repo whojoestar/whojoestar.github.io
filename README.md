@@ -1,1 +1,1 @@
-hi! I really don't know how to set up this website,, lol
+hi! i really don't know how to finish this website,, lol
